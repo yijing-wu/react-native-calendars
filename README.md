@@ -27,6 +27,11 @@ You can check example screens source code in [example module screens](https://gi
 
 This project is compatible with Expo/CRNA (without ejecting), and the examples have been [published on Expo](https://expo.io/@community/react-native-calendars-example)
 
+**Some problems I met when run it**
+
+  1.  `npm install` met version problem(looks like), try `npm install --force`
+  2.  `pod install` problems: `pod install --repo-update` to update available pod package globally.
+
 ## Installation
 
 ```
